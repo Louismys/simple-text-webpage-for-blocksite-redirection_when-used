@@ -1,0 +1,5 @@
+# simple-text-webpage-for-blocksite-redirection_when-used
+This repository is just created to host a simple .html file, for a simple, text-displaying, webpage, for the "Block Site" Firefox extension (when this is used), for the blocked websites to be redirected there.
+Description (again): This repository is just created to host a simple .html file, for a simple, text-displaying, webpage, for the "Block Site" Firefox extension (when this is used), for the blocked websites to be redirected there.
+
+I wanted to, without a lot og research and work, set up and use a website blocking app-service (which, in my case, is a Firefox extension), to, just, without getting "too much", but just doing the work, help me get in control and to get rid of bad habits of unneeded or excessive web browsing. This is just a first well-working idea and I'm not planning on researching this further, since I want to use the Internet and, genrally, electronic devices and media, only, when needed, I want to see and use that as a helpful tool, when needed.
